@@ -174,72 +174,52 @@
     "effect": [
       {
         "id": 111,
-        "name": "Wiggle",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.png",
-        "config": "wiggle",
-        "lut": "lut/wiggle.png",
+        "name": "TV CRT",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "config": "tv_crt",
+        "lut": "lut/tv_crt.png",
         "updateTime": 1592479912,
-        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.png",
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
         "status": true
       },
       {
         "id": 113,
-        "name": "Wiggle",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.png",
-        "config": "wiggle",
-        "lut": "lut/wiggle.png",
+        "name": "Retro",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.gif",
+        "config": "retro",
+        "lut": "lut/retro.png",
         "updateTime": 1592479912,
-        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.png",
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.gif",
         "status": true
       },
       {
         "id": 201,
         "name": "Hot wave",
-        "thumbnail": "thumbnail/hot_wave.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/201.gif",
         "config": "host_wave",
         "lut": "lut/host_wave.png",
         "updateTime": 1592479912,
-        "downloadUrl": "",
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/201.gif",
         "status": true
       },
       {
         "id": 202,
         "name": "Disco",
-        "thumbnail": "thumbnail/disco.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/202.gif",
         "config": "disco",
         "lut": "lut/disco.png",
         "updateTime": 1592479912,
-        "downloadUrl": "",
-        "status": true
-      },
-      {
-        "id": 203,
-        "name": "Old TV",
-        "thumbnail": "thumbnail/old_tv.png",
-        "config": "old_tv",
-        "lut": "lut/old_tv.png",
-        "updateTime": 1592479912,
-        "downloadUrl": "",
-        "status": true
-      },
-      {
-        "id": 204,
-        "name": "Bad TV",
-        "thumbnail": "thumbnail/bad_tv.png",
-        "config": "bad_tv",
-        "lut": "lut/bad_tv.png",
-        "updateTime": 1592479912,
-        "downloadUrl": "",
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/202.gif",
         "status": true
       },
       {
         "id": 205,
         "name": "70s",
-        "thumbnail": "thumbnail/70s.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/205.gif",
         "config": "70s",
         "lut": "lut/70s.png",
         "updateTime": 1592479912,
-        "downloadUrl": "",
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/205.gif",
         "status": true
       },
       {
