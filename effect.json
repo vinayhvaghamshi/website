@@ -568,7 +568,7 @@
       {
         "id": 401,
         "name": "Fuzzy",
-        "thumbnail": "thumbnail/fuzzy.png",
+        "thumbnail": "https://videos.openai.com/vg-assets/assets%2Ftask_01k5x2bjpnfzasae7tmdrhw0cz%2F1758691009_img_0.webp?st=2025-09-24T04%3A06%3A14Z&se=2025-09-30T05%3A06%3A14Z&sks=b&skt=2025-09-24T04%3A06%3A14Z&ske=2025-09-30T05%3A06%3A14Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=miScA6J2kL%2FaNC66Q7JL7abVQ2PASEUKqcYMkFK9aKI%3D&az=oaivgprodscus",
         "config": "fuzzy",
         "lut": "lut/fuzzy.png",
         "updateTime": 1592479912,
