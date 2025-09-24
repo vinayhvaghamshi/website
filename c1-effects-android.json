@@ -27,18 +27,6 @@
       "type": 1010
     },
     {
-      "id": 0,
-      "name": "Glass",
-      "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/0_10.jpg",
-      "config": "glass",
-      "lut": "star1/data/normal.png",
-      "updateTime": 1592479912,
-      "color": "0xFF0000",
-      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fglass%2Fclip1.zip?alt=media",
-      "meta_url": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fcamera%2Fspl_face_landmark_data.zip?alt=media",
-      "type": 1010
-    },
-    {
       "id": 511,
       "name": "Star",
       "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstar1%2Fstar1_001.jpg?alt=media",
