@@ -1,0 +1,90 @@
+{
+  "id": 101,
+  "name": "Dynamic",
+  "thumbnail": "normal/thumbnail.png",
+  "updateTime": 1592479912,
+  "effect": [
+    {
+      "id": 1,
+      "name": "Cancel",
+      "thumbnail": "",
+      "config": "",
+      "lut": "",
+      "updateTime": 0,
+      "color": "",
+      "dUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "Glass",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstar1%2Fstar1_001.jpg?alt=media",
+      "config": "glass",
+      "lut": "star1/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fglass%2Fclip1.zip?alt=media",
+      "meta_url": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fcamera%2Fspl_face_landmark_data.zip?alt=media",
+      "type": 1010
+    },
+    {
+      "id": 511,
+      "name": "Star",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstar1%2Fstar1_001.jpg?alt=media",
+      "config": "star1",
+      "lut": "star1/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstar1%2Fclip1.zip?alt=media"
+    },
+    {
+      "id": 512,
+      "name": "Alpha",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Falpha1%2Fcaihong_00027.jpg?alt=media",
+      "config": "alpha1",
+      "lut": "alpha1/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Falpha1%2Fclip1.zip?alt=media"
+    },
+    {
+      "id": 513,
+      "name": "Love 01",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Flove_01%2FLove_001.jpeg?alt=media",
+      "config": "love_01",
+      "lut": "love_01/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Flove_01%2Fclip1.zip?alt=media"
+    },
+    {
+      "id": 514,
+      "name": "Hexagon pattern 01",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fhexogon_pattern_01%2Fhexogon_pattern_01.png?alt=media",
+      "config": "hexagon_pattern_01",
+      "lut": "hexagon_pattern_01/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fhexogon_pattern_01%2Fclip1.zip?alt=media"
+    },
+    {
+      "id": 515,
+      "name": "Hexagon pattern 02",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fhexogon_pattern_02%2Fhexogon_pattern_02.png?alt=media",
+      "config": "hexagon_pattern_02",
+      "lut": "hexagon_pattern_02/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fhexogon_pattern_02%2Fclip1.zip?alt=media"
+    },
+    {
+      "id": 516,
+      "name": "starlight",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstarlight_01%2Fstarlight_01.jpg?alt=media",
+      "config": "starlight1",
+      "lut": "starlight1/data/normal.png",
+      "updateTime": 1592479912,
+      "color": "0xFF0000",
+      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fstarlight_01%2Fclip1.zip?alt=media"
+    }
+  ]
+}
