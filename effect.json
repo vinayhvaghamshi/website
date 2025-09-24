@@ -477,7 +477,8 @@
       {
         "id": 304,
         "name": "Hue sat",
-        "thumbnail": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59kntsef9v8ry6m8m51ysvv%2F1758038060_img_0.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=qWpkf2KVI%2Bu5uPoiufxWlZJcCRKguNtCQtMZhTscHZc%3D&az=oaivgprodscus",
+        "thumbnail": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59k8wc3f6e98zx1dd7rnkqx%2F1758037687_img_0.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=Wx3gIVjSSHcmMrVLoRxAvUDfSSpefi8KlEmh8fyWhBw%3D&az=oaivgprodscus",
+        "thumbnail_2": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59kntsef9v8ry6m8m51ysvv%2F1758038060_img_0.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=qWpkf2KVI%2Bu5uPoiufxWlZJcCRKguNtCQtMZhTscHZc%3D&az=oaivgprodscus",
         "thumbnail_1": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59kntsef9v8ry6m8m51ysvv%2F1758038060_img_1.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fXLSZM3%2FOLnM5abnjwX7S9DqgFzQRKnVSMEEJ3rTucE%3D&az=oaivgprodscus",
         "config": "hue_sat",
         "lut": "lut/hue_sat.png",
