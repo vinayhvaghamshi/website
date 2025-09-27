@@ -1,0 +1,4 @@
+./make_frames.sh
+
+ffmpeg -framerate 11.54 -i frame_%d.png -t 13 -c:v libx264 -pix_fmt yuv420p output.mp4
+
