@@ -7,10 +7,10 @@
     "effect": [
       {
         "id": 601,
-        "name": "love",
+        "name": "loveSpot",
         "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
-        "config": "love",
-        "lut": "lut/love.png",
+        "config": "loveSpot",
+        "lut": "lut/loveSpot.png",
         "updateTime": 1592479912,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
         "dUrl": "https://github.com/vinayhvaghamshi/website/raw/refs/heads/main/downloads/loveSpot.zip",
