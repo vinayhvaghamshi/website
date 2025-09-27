@@ -30,11 +30,11 @@
       "id": 601,
       "uuid": 857375932535,
       "name": "loveSpot",
-      "thumbnail": "https://github.com/vinayhvaghamshi/website/blob/main/c1/loveSpot.png",
+      "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/loveSpot.png",
       "config": "loveSpot",
       "updateTime": 1592479912,
       "color": "0xFF0000",
-      "dUrl": "https://github.com/vinayhvaghamshi/website/blob/main/c1/loveSpot.zip"
+      "dUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/loveSpot.zip"
     },
     {
       "id": 511,
