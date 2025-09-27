@@ -28,12 +28,13 @@
     },
     {
       "id": 601,
+      "uuid": 857375932535,
       "name": "loveSpot",
-      "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/0_10.jpg",
+      "thumbnail": "https://github.com/vinayhvaghamshi/website/blob/main/c1/loveSpot.gif",
       "config": "loveSpot",
       "updateTime": 1592479912,
       "color": "0xFF0000",
-      "dUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fc1%2Fglass%2Fclip1.zip?alt=media",
+      "dUrl": "https://github.com/vinayhvaghamshi/website/blob/main/c1/loveSpot.zip"
     },
     {
       "id": 511,
