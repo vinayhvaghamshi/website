@@ -32,6 +32,7 @@
       "name": "loveSpot",
       "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/loveSpot.png",
       "config": "loveSpot",
+      "lut": "star1/data/normal.png",
       "updateTime": 1592479912,
       "color": "0xFF0000",
       "dUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/c1/loveSpot.zip"
