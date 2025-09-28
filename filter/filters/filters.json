@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Normal",
+    "thumbnail": "normal/thumbnail.png",
+    "config": "normal",
+    "lut": "normal/lut_normal/normal.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F1",
+    "thumbnail": "f1/thumbnail.png",
+    "config": "f1",
+    "lut_type": 2,
+    "lut": "f1/lut_f1/1024-32.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F2",
+    "thumbnail": "f2/thumbnail.png",
+    "config": "f2",
+    "lut_type": 1,
+    "lut": "f2/lut_f2/f2.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F3",
+    "thumbnail": "f3/thumbnail.png",
+    "config": "f3",
+    "lut_type": 1,
+    "lut": "f3/lut_f3/f3.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F4",
+    "thumbnail": "f4/thumbnail.png",
+    "config": "f4",
+    "lut_type": 1,
+    "lut": "f4/lut_f4/f4.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F5",
+    "thumbnail": "f5/thumbnail.png",
+    "config": "f5",
+    "lut_type": 1,
+    "lut": "f5/lut_f5/f5.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F6",
+    "thumbnail": "f6/thumbnail.png",
+    "config": "f6",
+    "lut_type": 1,
+    "lut": "f6/lut_f6/f6.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F7",
+    "thumbnail": "f7/thumbnail.png",
+    "config": "f7",
+    "lut_type": 1,
+    "lut": "f7/lut_f7/f7.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F8",
+    "thumbnail": "f8/thumbnail.png",
+    "config": "f8",
+    "lut_type": 1,
+    "lut": "f8/lut_f8/f8.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F9",
+    "thumbnail": "f9/thumbnail.png",
+    "config": "f9",
+    "lut_type": 1,
+    "lut": "f9/lut_f9/f9.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  },
+  {
+    "name": "F10",
+    "thumbnail": "f10/thumbnail.png",
+    "config": "f10",
+    "lut_type": 1,
+    "lut": "f10/lut_f10/f10.png",
+    "updateTime": 1592479912,
+    "downloadUrl": ""
+  }
+]
