@@ -1,13 +1,13 @@
 [
   {
     "id": 600,
-    "name": "VXF",
+    "name": "Love",
     "thumbnail": "vfx/vfx.png",
     "updateTime": 1592479912,
     "effect": [
       {
         "id": 601,
-        "name": "loveSpot",
+        "name": "Love Spot",
         "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
         "config": "loveSpot",
         "lut": "lut/loveSpot.png",
@@ -21,7 +21,7 @@
   },
   {
     "id": 300,
-    "name": "Colorful",
+    "name": "Motion",
     "thumbnail": "effect/colorful.png",
     "updateTime": 1592479912,
     "effect": [
@@ -146,7 +146,7 @@
   },
   {
     "id": 200,
-    "name": "Dynamic",
+    "name": "Retro",
     "thumbnail": "effect/dynamic.png",
     "updateTime": 1592479912,
     "effect": [
@@ -414,7 +414,7 @@
   },
   {
     "id": 100,
-    "name": "SFX",
+    "name": "Artistic",
     "thumbnail": "effect/screen_effects.png",
     "updateTime": 1592479912,
     "effect": [
