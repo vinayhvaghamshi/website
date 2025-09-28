@@ -1,0 +1,565 @@
+[
+  {
+    "id": 100,
+    "name": "Love Effects",
+    "thumbnail": "vfx/vfx.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 601,
+        "name": "Love Spot",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "config": "loveSpot",
+        "lut": "lut/loveSpot.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "dUrl": "https://github.com/vinayhvaghamshi/website/raw/refs/heads/main/downloads/loveSpot.zip",
+        "is_downloadable": true,
+        "status": true
+      },
+      {
+        "id": 602,
+        "name": "Heart Glow",
+        "thumbnail": "effect/love/heart_glow.png",
+        "config": "heart_glow",
+        "lut": "lut/heart_glow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Colorful Effects",
+    "thumbnail": "effect/colorful.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 301,
+        "name": "Rainbow",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "config": "rainbow",
+        "lut": "lut/rainbow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "status": true
+      },
+      {
+        "id": 302,
+        "name": "Neon Pop",
+        "thumbnail": "effect/colorful/neon_pop.png",
+        "config": "neon_pop",
+        "lut": "lut/neon_pop.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Retro Effects",
+    "thumbnail": "effect/dynamic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 111,
+        "name": "TV CRT",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "config": "tv_crt",
+        "lut": "lut/tv_crt.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "status": true
+      },
+      {
+        "id": 112,
+        "name": "VHS",
+        "thumbnail": "effect/retro/vhs.png",
+        "config": "vhs",
+        "lut": "lut/vhs.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1200,
+    "name": "Nature Effects",
+    "thumbnail": "effect/nature.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 101,
+        "name": "Rain",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "config": "rain",
+        "lut": "lut/rain.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "status": true
+      },
+      {
+        "id": 1201,
+        "name": "Snow",
+        "thumbnail": "effect/nature/snow.png",
+        "config": "snow",
+        "lut": "lut/snow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1202,
+        "name": "Fire",
+        "thumbnail": "effect/nature/fire.png",
+        "config": "fire",
+        "lut": "lut/fire.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Split Screen",
+    "thumbnail": "effect/split_screen.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 401,
+        "name": "Fuzzy",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "config": "fuzzy",
+        "lut": "lut/fuzzy.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "status": false
+      },
+      {
+        "id": 402,
+        "name": "Horizontal Split",
+        "thumbnail": "effect/split_screen/horizontal.png",
+        "config": "horizontal_split",
+        "lut": "lut/horizontal_split.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Glitch Effects",
+    "thumbnail": "effect/glitch.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 601,
+        "name": "RGB Split",
+        "thumbnail": "effect/glitch/rgb_split.png",
+        "config": "rgb_split",
+        "lut": "lut/rgb_split.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 602,
+        "name": "Datamosh",
+        "thumbnail": "effect/glitch/datamosh.png",
+        "config": "datamosh",
+        "lut": "lut/datamosh.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "name": "Magic Effects",
+    "thumbnail": "effect/magic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 701,
+        "name": "Sparkles",
+        "thumbnail": "effect/magic/sparkles.png",
+        "config": "sparkles",
+        "lut": "lut/sparkles.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 702,
+        "name": "Glow Trails",
+        "thumbnail": "effect/magic/glow_trails.png",
+        "config": "glow_trails",
+        "lut": "lut/glow_trails.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "name": "Motion Effects",
+    "thumbnail": "effect/motion.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 801,
+        "name": "Shake",
+        "thumbnail": "effect/motion/shake.png",
+        "config": "shake",
+        "lut": "lut/shake.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 802,
+        "name": "Wave",
+        "thumbnail": "effect/motion/wave.png",
+        "config": "wave",
+        "lut": "lut/wave.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "name": "Light Effects",
+    "thumbnail": "effect/light.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 901,
+        "name": "Lens Flare",
+        "thumbnail": "effect/light/lens_flare.png",
+        "config": "lens_flare",
+        "lut": "lut/lens_flare.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 902,
+        "name": "Neon Lines",
+        "thumbnail": "effect/light/neon_lines.png",
+        "config": "neon_lines",
+        "lut": "lut/neon_lines.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "name": "Artistic Effects",
+    "thumbnail": "effect/artistic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1001,
+        "name": "Sketch",
+        "thumbnail": "effect/artistic/sketch.png",
+        "config": "sketch",
+        "lut": "lut/sketch.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1002,
+        "name": "Oil Painting",
+        "thumbnail": "effect/artistic/oil_painting.png",
+        "config": "oil_painting",
+        "lut": "lut/oil_painting.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "name": "Face Effects",
+    "thumbnail": "effect/face.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1101,
+        "name": "AR Mask",
+        "thumbnail": "effect/face/ar_mask.png",
+        "config": "ar_mask",
+        "lut": "lut/ar_mask.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1102,
+        "name": "Glasses",
+        "thumbnail": "effect/face/glasses.png",
+        "config": "glasses",
+        "lut": "lut/glasses.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1300,
+    "name": "Fun Effects",
+    "thumbnail": "effect/fun.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1301,
+        "name": "Big Head",
+        "thumbnail": "effect/fun/big_head.png",
+        "config": "big_head",
+        "lut": "lut/big_head.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1302,
+        "name": "Emoji Overlay",
+        "thumbnail": "effect/fun/emoji_overlay.png",
+        "config": "emoji_overlay",
+        "lut": "lut/emoji_overlay.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1400,
+    "name": "Text & Typography",
+    "thumbnail": "effect/text.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1401,
+        "name": "Animated Text",
+        "thumbnail": "effect/text/animated_text.png",
+        "config": "animated_text",
+        "lut": "lut/animated_text.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1402,
+        "name": "Kinetic Typography",
+        "thumbnail": "effect/text/kinetic_typography.png",
+        "config": "kinetic_typography",
+        "lut": "lut/kinetic_typography.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "name": "Video Transition Effects",
+    "thumbnail": "effect/transition.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1501,
+        "name": "Fade",
+        "thumbnail": "effect/transition/fade.png",
+        "config": "fade",
+        "lut": "lut/fade.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1502,
+        "name": "Slide",
+        "thumbnail": "effect/transition/slide.png",
+        "config": "slide",
+        "lut": "lut/slide.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1600,
+    "name": "Holographic Effects",
+    "thumbnail": "effect/holographic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1601,
+        "name": "Holo Glow",
+        "thumbnail": "effect/holographic/holo_glow.png",
+        "config": "holo_glow",
+        "lut": "lut/holo_glow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1602,
+        "name": "Holo Lines",
+        "thumbnail": "effect/holographic/holo_lines.png",
+        "config": "holo_lines",
+        "lut": "lut/holo_lines.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1700,
+    "name": "3D Effects",
+    "thumbnail": "effect/3d.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1701,
+        "name": "3D Cube",
+        "thumbnail": "effect/3d/3d_cube.png",
+        "config": "3d_cube",
+        "lut": "lut/3d_cube.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1702,
+        "name": "3D Flip",
+        "thumbnail": "effect/3d/3d_flip.png",
+        "config": "3d_flip",
+        "lut": "lut/3d_flip.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 1800,
+    "name": "AI Effects",
+    "thumbnail": "effect/ai.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 1801,
+        "name": "AI Style Transfer",
+        "thumbnail": "effect/ai/ai_style_transfer.png",
+        "config": "ai_style_transfer",
+        "lut": "lut/ai_style_transfer.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      },
+      {
+        "id": 1802,
+        "name": "AI Face Morph",
+        "thumbnail": "effect/ai/ai_face_morph.png",
+        "config": "ai_face_morph",
+        "lut": "lut/ai_face_morph.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "",
+        "status": false
+      }
+    ]
+  }
+]
+2️⃣ Mapping Table
+Effect ID	Effect Name	Category Name
+601	Love Spot	Love Effects
+602	Heart Glow	Love Effects
+301	Rainbow	Colorful Effects
+302	Neon Pop	Colorful Effects
+111	TV CRT	Retro Effects
+112	VHS	Retro Effects
+101	Rain	Nature Effects
+1201	Snow	Nature Effects
+1202	Fire	Nature Effects
+401	Fuzzy	Split Screen
+402	Horizontal Split	Split Screen
+601	RGB Split	Glitch Effects
+602	Datamosh	Glitch Effects
+701	Sparkles	Magic Effects
+702	Glow Trails	Magic Effects
+801	Shake	Motion Effects
+802	Wave	Motion Effects
+901	Lens Flare	Light Effects
+902	Neon Lines	Light Effects
+1001	Sketch	Artistic Effects
+1002	Oil Painting	Artistic Effects
+1101	AR Mask	Face Effects
+1102	Glasses	Face Effects
+1301	Big Head	Fun Effects
+1302	Emoji Overlay	Fun Effects
+1401	Animated Text	Text & Typography
+1402	Kinetic Typography	Text & Typography
+1501	Fade	Video Transition Effects
+1502	Slide	Video Transition Effects
+1601	Holo Glow	Holographic Effects
+1602	Holo Lines	Holographic Effects
+1701	3D Cube	3D Effects
+1702	3D Flip	3D Effects
+1801	AI Style Transfer	AI Effects
+1802	AI Face Morph	AI Effects
+
+Perfect! Here's your mapping table exported as a CSV. You can directly save it as effect_mapping.csv and use it in your backend or admin panel.
+Effect ID,Effect Name,Category Name
+601,Love Spot,Love Effects
+602,Heart Glow,Love Effects
+301,Rainbow,Colorful Effects
+302,Neon Pop,Colorful Effects
+111,TV CRT,Retro Effects
+112,VHS,Retro Effects
+101,Rain,Nature Effects
+1201,Snow,Nature Effects
+1202,Fire,Nature Effects
+401,Fuzzy,Split Screen
+402,Horizontal Split,Split Screen
+601,RGB Split,Glitch Effects
+602,Datamosh,Glitch Effects
+701,Sparkles,Magic Effects
+702,Glow Trails,Magic Effects
+801,Shake,Motion Effects
+802,Wave,Motion Effects
+901,Lens Flare,Light Effects
+902,Neon Lines,Light Effects
+1001,Sketch,Artistic Effects
+1002,Oil Painting,Artistic Effects
+1101,AR Mask,Face Effects
+1102,Glasses,Face Effects
+1301,Big Head,Fun Effects
+1302,Emoji Overlay,Fun Effects
+1401,Animated Text,Text & Typography
+1402,Kinetic Typography,Text & Typography
+1501,Fade,Video Transition Effects
+1502,Slide,Video Transition Effects
+1601,Holo Glow,Holographic Effects
+1602,Holo Lines,Holographic Effects
+1701,3D Cube,3D Effects
+1702,3D Flip,3D Effects
+1801,AI Style Transfer,AI Effects
+1802,AI Face Morph,AI Effects

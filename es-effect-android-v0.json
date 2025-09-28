@@ -1,0 +1,169 @@
+[
+  {
+    "id": 100,
+    "name": "Love Effects",
+    "thumbnail": "vfx/vfx.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 601,
+        "name": "Love Spot",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "config": "loveSpot",
+        "lut": "lut/loveSpot.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "dUrl": "https://github.com/vinayhvaghamshi/website/raw/refs/heads/main/downloads/loveSpot.zip",
+        "is_downloadable": true,
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Colorful Effects",
+    "thumbnail": "effect/colorful.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 301,
+        "name": "Rainbow",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "config": "rainbow",
+        "lut": "lut/rainbow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Retro Effects",
+    "thumbnail": "effect/dynamic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 111,
+        "name": "TV CRT",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "config": "tv_crt",
+        "lut": "lut/tv_crt.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 1200,
+    "name": "Nature Effects",
+    "thumbnail": "effect/nature.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 101,
+        "name": "Rain",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "config": "rain",
+        "lut": "lut/rain.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Split Screen",
+    "thumbnail": "effect/split_screen.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 401,
+        "name": "Fuzzy",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "config": "fuzzy",
+        "lut": "lut/fuzzy.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Glitch Effects",
+    "thumbnail": "effect/glitch.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 700,
+    "name": "Magic Effects",
+    "thumbnail": "effect/magic.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 800,
+    "name": "Motion Effects",
+    "thumbnail": "effect/motion.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 900,
+    "name": "Light Effects",
+    "thumbnail": "effect/light.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 1000,
+    "name": "Artistic Effects",
+    "thumbnail": "effect/artistic.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 1100,
+    "name": "Face Effects",
+    "thumbnail": "effect/face.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 1300,
+    "name": "Fun Effects",
+    "thumbnail": "effect/fun.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 1400,
+    "name": "Text & Typography",
+    "thumbnail": "effect/text.png",
+    "updateTime": 1592479912,
+    "effect": []
+  },
+  {
+    "id": 1500,
+    "name": "Video Transition Effects",
+    "thumbnail": "effect/transition.png",
+    "updateTime": 1592479912,
+    "effect": []
+  }
+]
+| Category                     | Example Effects                                               | Notes / Description                                                                                  |
+| ---------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Glitch Effects**           | VHS, RGB Split, Datamosh, Digital Noise, Pixel Sort           | Effects that mimic corrupted or retro digital distortion; good for retro or edgy videos.             |
+| **Magic Effects**            | Sparkles, Fairy Dust, Glow Trails, Fireflies, Magic Swirls    | Fantasy-themed effects; often particle-based, adding charm and glimmer to videos.                    |
+| **Motion Effects**           | Shake, Bounce, Wave, Flow, Speed Lines                        | Effects that react to movement or create dynamic motion overlays; can be physics or animation-based. |
+| **Light Effects**            | Lens Flare, Sun Flare, Neon Lines, Light Leak, Glow           | Light-based overlays; can simulate sunlight, neon lights, or cinematic lighting.                     |
+| **Artistic Effects**         | Sketch, Oil Painting, Watercolor, Cartoon, Pop Art            | Transform video to artistic styles; often filter-based with creative LUTs.                           |
+| **Face Effects**             | Masks, Stickers, AR Makeup, Glasses, Hats                     | Face-tracking AR effects; for fun, beauty, or character overlays.                                    |
+| **Fun Effects**              | Cartoon Faces, Emoji Overlays, Warps, Big Head, Funny Glasses | Playful, entertaining effects for social/fun videos; often exaggerated or comical.                   |
+| **Text & Typography**        | Animated Text, Subtitles, Lyrics, Titles, Kinetic Typography  | Text overlays with animation; can be synced to music or dialogue.                                    |
+| **Video Transition Effects** | Fade, Slide, Zoom, Wipe, Glitch Transition                    | Effects for transitioning between clips; improves video flow.                                        |
+| **Nature Effects**           | Rain, Snow, Fire, Smoke, Waterfall                            | Realistic environmental overlays; can be particle or video-based.                                    |
