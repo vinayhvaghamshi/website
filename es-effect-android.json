@@ -12,6 +12,7 @@
         "config": "loveSpot",
         "lut": "lut/loveSpot.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
         "dUrl": "https://github.com/vinayhvaghamshi/website/raw/refs/heads/main/downloads/loveSpot.zip",
         "is_downloadable": true,
@@ -32,6 +33,7 @@
         "config": "rainbow",
         "lut": "lut/rainbow.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
         "status": true
       },
@@ -42,6 +44,7 @@
         "config": "spotlight",
         "lut": "lut/spotlight.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2Ficons%2Fframe_3.jpg?alt=media",
         "thumbnail1": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2Ficons%2Fframe_3.jpg?alt=media",
         "file": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2F302.zip?alt=media",
@@ -55,6 +58,7 @@
         "config": "psychedelic",
         "lut": "lut/psychedelic.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/303.gif",
         "status": true
       },
@@ -67,6 +71,7 @@
         "config": "hue_sat",
         "lut": "lut/hue_sat.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/304.gif",
         "downloadUrl1": "https://i.pinimg.com/736x/e2/d2/d0/e2d2d0688dd95c7605f804a0c05579f3.jpg",
         "downloadUrl2": "https://www.cnet.com/a/img/resize/56ef5786bda8a923cb7a1597f2bf43e0d1f09017/2019/06/12/c0a5681b-1684-4d83-bf80-9129c412065b/color-changing-smart-led-bulb-promo-philips-hue-lifx-c-by-ge-alexa-google-assistant-home-echo.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -79,6 +84,7 @@
         "config": "x_ray",
         "lut": "lut/x_ray.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/305.gif",
         "status": true
       },
@@ -89,6 +95,7 @@
         "config": "rgb",
         "lut": "lut/rgb.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/306.gif",
         "status": false
       },
@@ -99,6 +106,7 @@
         "config": "color_wheel",
         "lut": "lut/color_wheel.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/307.gif",
         "status": false
       },
@@ -109,6 +117,7 @@
         "config": "sw_glitch",
         "lut": "lut/sw_glitch.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/308.gif",
         "status": true
       },
@@ -119,6 +128,7 @@
         "config": "lightening",
         "lut": "lut/lightening.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/309.gif",
         "status": true
       },
@@ -129,6 +139,7 @@
         "config": "nostalgia",
         "lut": "lut/nostalgia.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/310.gif",
         "status": true
       },
@@ -139,6 +150,7 @@
         "config": "chroma",
         "lut": "lut/chroma.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/311.gif",
         "status": true
       }
@@ -157,6 +169,7 @@
         "config": "tv_crt",
         "lut": "lut/tv_crt.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
         "status": true
       },
@@ -167,6 +180,7 @@
         "config": "retro",
         "lut": "lut/retro.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.gif",
         "status": true
       },
@@ -177,6 +191,7 @@
         "config": "host_wave",
         "lut": "lut/host_wave.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/201.gif",
         "status": true
       },
@@ -187,6 +202,7 @@
         "config": "disco",
         "lut": "lut/disco.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/202.gif",
         "status": true
       },
@@ -197,6 +213,7 @@
         "config": "70s",
         "lut": "lut/70s.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/205.gif",
         "status": true
       },
@@ -207,6 +224,7 @@
         "config": "x_signal",
         "lut": "lut/x_signal.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/208.gif",
         "status": true
       },
@@ -217,6 +235,7 @@
         "config": "chroma",
         "lut": "lut/chroma.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/210.gif",
         "status": true
       },
@@ -227,6 +246,7 @@
         "config": "hallucination",
         "lut": "lut/hallucination.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/212.gif",
         "status": true
       },
@@ -237,6 +257,7 @@
         "config": "red_beam",
         "lut": "lut/red_beam.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/216.gif",
         "status": true
       },
@@ -247,6 +268,7 @@
         "config": "jitter",
         "lut": "lut/jitter.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/217.gif",
         "status": true
       },
@@ -257,6 +279,7 @@
         "config": "gl_burr",
         "lut": "lut/gl_burr.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/218.gif",
         "status": true
       },
@@ -267,6 +290,7 @@
         "config": "glitch1",
         "lut": "lut/glitch1.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/219.gif",
         "status": true
       },
@@ -277,6 +301,7 @@
         "config": "glitch2",
         "lut": "lut/glitch2.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/220.gif",
         "status": false
       },
@@ -287,6 +312,7 @@
         "config": "glitch3",
         "lut": "lut/glitch3.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/221.gif",
         "status": true
       },
@@ -297,6 +323,7 @@
         "config": "soul_out",
         "lut": "lut/soul_out.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/222.gif",
         "status": true
       },
@@ -307,6 +334,7 @@
         "config": "shifter",
         "lut": "lut/shifter.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/223.gif",
         "status": true
       },
@@ -317,6 +345,7 @@
         "config": "shake",
         "lut": "lut/shake.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/224.gif",
         "status": true
       },
@@ -327,6 +356,7 @@
         "config": "light",
         "lut": "lut/light.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/227.gif",
         "status": true
       },
@@ -337,6 +367,7 @@
         "config": "jitter",
         "lut": "lut/jitter.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/230.gif",
         "status": true
       },
@@ -347,6 +378,7 @@
         "config": "preview",
         "lut": "lut/preview.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/231.gif",
         "status": true
       },
@@ -357,6 +389,7 @@
         "config": "soul",
         "lut": "lut/soul.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/232.gif",
         "status": true
       },
@@ -367,6 +400,7 @@
         "config": "split_interval",
         "lut": "lut/split_interval.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/233.gif",
         "status": true
       },
@@ -377,6 +411,7 @@
         "config": "stab_ci",
         "lut": "lut/stab_ci.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/234.gif",
         "status": true
       },
@@ -387,6 +422,7 @@
         "config": "white_mask",
         "lut": "lut/white_mask.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/235.gif",
         "status": true
       },
@@ -397,6 +433,7 @@
         "config": "seventies1",
         "lut": "lut/seventies1.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/239.gif",
         "status": true
       },
@@ -407,6 +444,7 @@
         "config": "illusion",
         "lut": "lut/illusion.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/240.gif",
         "status": true
       }
@@ -425,6 +463,7 @@
         "config": "rain",
         "lut": "lut/rain.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
         "status": true
       },
@@ -435,6 +474,7 @@
         "config": "ripple",
         "lut": "lut/ripple.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/102.gif",
         "status": true
       },
@@ -444,6 +484,7 @@
         "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/103.gif",
         "config": "water_drop",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/103.gif",
         "status": true
       },
@@ -454,6 +495,7 @@
         "config": "wobble",
         "lut": "lut/wobble.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/104.gif",
         "status": true
       },
@@ -464,6 +506,7 @@
         "config": "night_vision",
         "lut": "lut/night_vision.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/105.gif",
         "status": true
       },
@@ -474,6 +517,7 @@
         "config": "snow",
         "lut": "lut/snow.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/106.gif",
         "status": true
       },
@@ -484,6 +528,7 @@
         "config": "hypnotic",
         "lut": "lut/hypnotic.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/107.gif",
         "status": true
       },
@@ -494,6 +539,7 @@
         "config": "electric",
         "lut": "lut/electric.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/108.gif",
         "status": true
       },
@@ -504,6 +550,7 @@
         "config": "droste",
         "lut": "lut/droste.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/109.gif",
         "status": true
       },
@@ -514,6 +561,7 @@
         "config": "Slicer",
         "lut": "lut/slicer.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/206.gif",
         "status": true
       },
@@ -524,6 +572,7 @@
         "config": "binary",
         "lut": "lut/binary.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/207.gif",
         "status": true
       },
@@ -534,6 +583,7 @@
         "config": "old_move",
         "lut": "lut/old_move.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/209.gif",
         "status": true
       },
@@ -544,6 +594,7 @@
         "config": "ghost",
         "lut": "lut/ghost.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/213.gif",
         "status": true
       },
@@ -554,6 +605,7 @@
         "config": "vibration",
         "lut": "lut/vibration.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/225.gif",
         "status": true
       },
@@ -564,6 +616,7 @@
         "config": "sway",
         "lut": "lut/sway.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/229.gif",
         "status": false
       },
@@ -574,6 +627,7 @@
         "config": "wiggle",
         "lut": "lut/wiggle.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/231.gif",
         "status": true
       }
@@ -592,6 +646,7 @@
         "config": "fuzzy",
         "lut": "lut/fuzzy.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
         "status": false
       },
@@ -602,6 +657,7 @@
         "config": "blur_split",
         "lut": "lut/blur_split.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/402.gif",
         "status": false
       },
@@ -612,6 +668,7 @@
         "config": "two",
         "lut": "lut/two.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/403.gif",
         "status": true
       },
@@ -622,6 +679,7 @@
         "config": "three",
         "lut": "lut/three.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/404.gif",
         "status": true
       },
@@ -632,6 +690,7 @@
         "config": "four",
         "lut": "lut/four.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/405.gif",
         "status": true
       },
@@ -642,6 +701,7 @@
         "config": "six",
         "lut": "lut/six.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/406.gif",
         "status": true
       },
@@ -652,6 +712,7 @@
         "config": "nine",
         "lut": "lut/nine.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/407.gif",
         "status": true
       },
@@ -662,6 +723,7 @@
         "config": "right",
         "lut": "lut/right.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/408.gif",
         "status": true
       },
@@ -672,6 +734,7 @@
         "config": "left",
         "lut": "lut/left.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/409.gif",
         "status": true
       },
@@ -682,6 +745,7 @@
         "config": "up",
         "lut": "lut/up.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/410.gif",
         "status": true
       },
@@ -692,6 +756,7 @@
         "config": "down",
         "lut": "lut/down.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/411.gif",
         "status": true
       },
@@ -702,6 +767,7 @@
         "config": "mirror1",
         "lut": "lut/mirror1.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/412.gif",
         "status": true
       },
@@ -712,6 +778,7 @@
         "config": "mirror2",
         "lut": "lut/mirror2.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/413.gif",
         "status": true
       },
@@ -722,6 +789,7 @@
         "config": "black_split_white",
         "lut": "lut/black_split_white.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/414.gif",
         "status": true
       },
@@ -732,6 +800,7 @@
         "config": "black_split_white1",
         "lut": "lut/black_split_white1.png",
         "updateTime": 1592479912,
+        "color": 4286619171,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/415.gif",
         "status": false
       }
