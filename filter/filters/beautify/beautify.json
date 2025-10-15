@@ -1,0 +1,27 @@
+{
+  "enable": true,
+  "jsonPath": "/sdcard/Download/beauty_config.json",
+
+  "gray_texture_path": "/sdcard/Download/gray_texture.png",
+  "lookup_texture_path": "/sdcard/Download/lookup_texture.png",
+
+  "beautyIntensity": 0.8,
+  "complexionIntensity": 0.4,
+  "faceLift": 0.2,
+  "faceShave": 0.1,
+  "faceNarrow": 0.15,
+  "chinIntensity": 0.0,
+  "nasolabialFoldsIntensity": 0.3,
+  "foreheadIntensity": 0.0,
+  "eyeEnlargeIntensity": 0.4,
+  "eyeDistanceIntensity": 0.0,
+  "eyeCornerIntensity": 0.0,
+  "eyeFurrowsIntensity": 0.2,
+  "eyeBagsIntensity": 0.1,
+  "eyeBrightIntensity": 0.5,
+  "noseThinIntensity": 0.3,
+  "alaeIntensity": 0.2,
+  "proboscisIntensity": 0.0,
+  "mouthEnlargeIntensity": 0.1,
+  "teethBeautyIntensity": 0.6
+}

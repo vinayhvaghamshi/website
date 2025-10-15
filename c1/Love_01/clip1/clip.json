@@ -1,0 +1,341 @@
+{
+  "parts": {
+    "entity": {
+      "lut": {
+    	"lut_type": 1,
+        "alphaFactor": 0.3,
+        "blendMode": 0,
+        "fps": 0.25,
+        "has": true,
+        "type": 0,
+        "intensity": 0.65,
+        "lut": "lut_f9/f9.png",
+        "name": "lut.png"
+      },
+      "clip": {
+        "alphaFactor": 0.30,
+        "blendMode": 0,
+        "fps": 0.25,
+        "height": 889,
+        "textureIdx": {
+          "idx": [],
+          "type": "image"
+        },
+        "transformParams": {
+          "position": {
+            "point0": {
+              "anchor": [
+                0.0,
+                0.5
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.0
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5000000000000001
+                }
+              ]
+            },
+            "point1": {
+              "anchor": [
+                1.0,
+                0.5
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.9998750156230473
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5000000000000001
+                }
+              ]
+            }
+          },
+          "relation": {
+            "foreground": 1
+          },
+          "relationIndex": [
+            0
+          ],
+          "relationRefOrder": 0,
+          "rotationtype": 1,
+          "scale": {
+            "scaleY": {
+              "factor": 1.0000000000000002
+            }
+          }
+        },
+        "transformType": "FOLLOW",
+        "width": 500,
+        "zorder": 5000
+      },
+      "clipname1_Vertical": {
+        "alphaFactor": 1.0,
+        "blendmode": 0,
+        "fps": 16,
+        "height": 889,
+        "textureIdx": {
+          "idx": [],
+          "type": "image"
+        },
+        "transformParams": {
+          "position": {
+            "point0": {
+              "anchor": [
+                0.5,
+                0.0
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.0
+                }
+              ]
+            },
+            "point1": {
+              "anchor": [
+                0.5,
+                1.0
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 1.0
+                }
+              ]
+            }
+          },
+          "relation": {
+            "foreground": 1
+          },
+          "relationIndex": [
+            0
+          ],
+          "relationRefOrder": 0,
+          "rotationtype": 1,
+          "scale": {
+            "scaleY": {
+              "factor": 1.0000000000000002
+            }
+          }
+        },
+        "transformType": "FOLLOW",
+        "width": 500,
+        "zorder": 5000
+      },
+      "clipname2": {
+        "alphaFactor": 1.0,
+        "blendmode": 1021,
+        "fps": 16,
+        "height": 889,
+        "textureIdx": {
+          "idx": [],
+          "type": "image"
+        },
+        "transformParams": {
+          "position": {
+            "point0": {
+              "anchor": [
+                0.0,
+                0.5
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.0
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                }
+              ]
+            },
+            "point1": {
+              "anchor": [
+                1.0,
+                0.5
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.999875015623047
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                }
+              ]
+            }
+          },
+          "relation": {
+            "foreground": 1
+          },
+          "relationIndex": [
+            0
+          ],
+          "relationRefOrder": 0,
+          "rotationtype": 1,
+          "scale": {
+            "scaleY": {
+              "factor": 1.0
+            }
+          }
+        },
+        "transformType": "FOLLOW",
+        "width": 500,
+        "zorder": 4999
+      },
+      "clipname2_Vertical": {
+        "alphaFactor": 1.0,
+        "blendmode": 1021,
+        "fps": 16,
+        "height": 889,
+        "textureIdx": {
+          "idx": [],
+          "type": "image"
+        },
+        "transformParams": {
+          "position": {
+            "point0": {
+              "anchor": [
+                0.5,
+                0.0
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.0
+                }
+              ]
+            },
+            "point1": {
+              "anchor": [
+                0.5,
+                1.0
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 0.5
+                },
+                {
+                  "idx": "bottomleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 1.0
+                }
+              ]
+            }
+          },
+          "relation": {
+            "foreground": 1
+          },
+          "relationIndex": [
+            0
+          ],
+          "relationRefOrder": 0,
+          "rotationtype": 1,
+          "scale": {
+            "scaleY": {
+              "factor": 1.0
+            }
+          }
+        },
+        "transformType": "FOLLOW",
+        "width": 500,
+        "zorder": 4999
+      }
+    }
+  },
+  "textureFiles": [
+    "clip/clip_name_0001.jpeg",
+    "clip/clip_name_0002.jpeg",
+    "clip/clip_name_0003.jpeg",
+    "clip/clip_name_0004.jpeg",
+    "clip/clip_name_0005.jpeg",
+    "clip/clip_name_0006.jpeg",
+    "clip/clip_name_0007.jpeg",
+    "clip/clip_name_0008.jpeg",
+    "clip/clip_name_0009.jpeg",
+    "clip/clip_name_0010.jpeg",
+    "clip/clip_name_0011.jpeg",
+    "clip/clip_name_0012.jpeg",
+    "clip/clip_name_0013.jpeg",
+    "clip/clip_name_0014.jpeg",
+    "clip/clip_name_0015.jpeg",
+    "clip/clip_name_0016.jpeg",
+    "clip/clip_name_0017.jpeg",
+    "clip/clip_name_0018.jpeg",
+    "clip/clip_name_0019.jpeg",
+    "clip/clip_name_0020.jpeg",
+    "clip/clip_name_0021.jpeg",
+    "clip/clip_name_0022.jpeg",
+    "clip/clip_name_0023.jpeg",
+    "clip/clip_name_0024.jpeg",
+    "clip/clip_name_0025.jpeg",
+    "clip/clip_name_0026.jpeg",
+    "clip/clip_name_0027.jpeg",
+    "clip/clip_name_0028.jpeg",
+    "clip/clip_name_0029.jpeg",
+    "clip/clip_name_0030.jpeg",
+    "clip/clip_name_0031.jpeg",
+    "clip/clip_name_0032.jpeg",
+    "clip/clip_name_0033.jpeg",
+    "clip/clip_name_0034.jpeg",
+    "clip/clip_name_0035.jpeg",
+    "clip/clip_name_0036.jpeg",
+    "clip/clip_name_0037.jpeg",
+    "clip/clip_name_0038.jpeg",
+    "clip/clip_name_0039.jpeg",
+    "clip/clip_name_0040.jpeg",
+    "clip/clip_name_0041.jpeg",
+    "clip/clip_name_0042.jpeg"
+  ]
+}
