@@ -28,12 +28,12 @@
     "effect": [
       {
         "id": 901,
-        "name": "Rainbow",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/output.gif",
-        "config": "rainbow",
-        "lut": "lut/rainbow.png",
+        "name": "Linear blur",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/901.gif",
+        "config": "linear_blur",
+        "lut": "lut/linear_blur.png",
         "updateTime": 1592479912,
-        "color": 4291619020,
+        "color": 4290638336,
         "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
         "status": true
       },
