@@ -1,0 +1,738 @@
+[
+  {
+    "id": 600,
+    "name": "vxf",
+    "thumbnail": "vfx/vfx.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 601,
+        "name": "love",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "config": "love",
+        "lut": "lut/love.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/600/601.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Screen",
+    "thumbnail": "effect/screen_effects.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 101,
+        "name": "Rain",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "config": "rain",
+        "lut": "lut/rain.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/101.gif",
+        "status": true
+      },
+      {
+        "id": 102,
+        "name": "Ripple",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/102.gif",
+        "config": "ripple",
+        "lut": "lut/ripple.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/102.gif",
+        "status": true
+      },
+      {
+        "id": 103,
+        "name": "Water drop",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/103.gif",
+        "config": "water_drop",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/103.gif",
+        "status": true
+      },
+      {
+        "id": 104,
+        "name": "Wobble",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/104.gif",
+        "config": "wobble",
+        "lut": "lut/wobble.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/104.gif",
+        "status": true
+      },
+      {
+        "id": 105,
+        "name": "Night vision",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/105.gif",
+        "config": "night_vision",
+        "lut": "lut/night_vision.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/105.gif",
+        "status": true
+      },
+      {
+        "id": 106,
+        "name": "Snow",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/106.gif",
+        "config": "snow",
+        "lut": "lut/snow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/106.gif",
+        "status": true
+      },
+      {
+        "id": 107,
+        "name": "Hypnotic",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/107.gif",
+        "config": "hypnotic",
+        "lut": "lut/hypnotic.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/107.gif",
+        "status": true
+      },
+      {
+        "id": 108,
+        "name": "Electric",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/108.gif",
+        "config": "electric",
+        "lut": "lut/electric.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/108.gif",
+        "status": true
+      },
+      {
+        "id": 109,
+        "name": "Droste",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/109.gif",
+        "config": "droste",
+        "lut": "lut/droste.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/109.gif",
+        "status": true
+      },
+      {
+        "id": 206,
+        "name": "Slicer",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/206.gif",
+        "config": "Slicer",
+        "lut": "lut/slicer.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/206.gif",
+        "status": true
+      },
+      {
+        "id": 207,
+        "name": "Binary",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/207.gif",
+        "config": "binary",
+        "lut": "lut/binary.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/207.gif",
+        "status": true
+      },
+      {
+        "id": 209,
+        "name": "Old move",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/209.gif",
+        "config": "old_move",
+        "lut": "lut/old_move.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/209.gif",
+        "status": true
+      },
+      {
+        "id": 213,
+        "name": "Ghost",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/213.gif",
+        "config": "ghost",
+        "lut": "lut/ghost.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/213.gif",
+        "status": true
+      },
+      {
+        "id": 225,
+        "name": "Vibration",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/225.gif",
+        "config": "vibration",
+        "lut": "lut/vibration.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/225.gif",
+        "status": true
+      },
+      {
+        "id": 229,
+        "name": "Sway",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/229.gif",
+        "config": "sway",
+        "lut": "lut/sway.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/229.gif",
+        "status": false
+      },
+      {
+        "id": 231,
+        "name": "Wiggle",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/231.gif",
+        "config": "wiggle",
+        "lut": "lut/wiggle.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/100/231.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Dynamic",
+    "thumbnail": "effect/dynamic.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 111,
+        "name": "TV CRT",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "config": "tv_crt",
+        "lut": "lut/tv_crt.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/111.gif",
+        "status": true
+      },
+      {
+        "id": 113,
+        "name": "Retro",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.gif",
+        "config": "retro",
+        "lut": "lut/retro.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/113.gif",
+        "status": true
+      },
+      {
+        "id": 201,
+        "name": "Hot wave",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/201.gif",
+        "config": "host_wave",
+        "lut": "lut/host_wave.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/201.gif",
+        "status": true
+      },
+      {
+        "id": 202,
+        "name": "Disco",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/202.gif",
+        "config": "disco",
+        "lut": "lut/disco.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/202.gif",
+        "status": true
+      },
+      {
+        "id": 205,
+        "name": "70s",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/205.gif",
+        "config": "70s",
+        "lut": "lut/70s.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/205.gif",
+        "status": true
+      },
+      {
+        "id": 208,
+        "name": "X signal",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/208.gif",
+        "config": "x_signal",
+        "lut": "lut/x_signal.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/208.gif",
+        "status": true
+      },
+      {
+        "id": 210,
+        "name": "Chroma",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/210.gif",
+        "config": "chroma",
+        "lut": "lut/chroma.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/210.gif",
+        "status": true
+      },
+      {
+        "id": 212,
+        "name": "Hallucination",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/212.gif",
+        "config": "hallucination",
+        "lut": "lut/hallucination.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/212.gif",
+        "status": true
+      },
+      {
+        "id": 216,
+        "name": "Red beam",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/216.gif",
+        "config": "red_beam",
+        "lut": "lut/red_beam.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/216.gif",
+        "status": true
+      },
+      {
+        "id": 217,
+        "name": "Jitter",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/217.gif",
+        "config": "jitter",
+        "lut": "lut/jitter.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/217.gif",
+        "status": true
+      },
+      {
+        "id": 218,
+        "name": "Gl burr",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/218.gif",
+        "config": "gl_burr",
+        "lut": "lut/gl_burr.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/218.gif",
+        "status": true
+      },
+      {
+        "id": 219,
+        "name": "Glitch 1",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/219.gif",
+        "config": "glitch1",
+        "lut": "lut/glitch1.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/219.gif",
+        "status": true
+      },
+      {
+        "id": 220,
+        "name": "Glitch 2",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/220.gif",
+        "config": "glitch2",
+        "lut": "lut/glitch2.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/220.gif",
+        "status": false
+      },
+      {
+        "id": 221,
+        "name": "Glitch 3",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/221.gif",
+        "config": "glitch3",
+        "lut": "lut/glitch3.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/221.gif",
+        "status": true
+      },
+      {
+        "id": 222,
+        "name": "Soul out",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/222.gif",
+        "config": "soul_out",
+        "lut": "lut/soul_out.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/222.gif",
+        "status": true
+      },
+      {
+        "id": 223,
+        "name": "Shifter",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/223.gif",
+        "config": "shifter",
+        "lut": "lut/shifter.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/223.gif",
+        "status": true
+      },
+      {
+        "id": 224,
+        "name": "Shake",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/224.gif",
+        "config": "shake",
+        "lut": "lut/shake.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/224.gif",
+        "status": true
+      },
+      {
+        "id": 227,
+        "name": "Light",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/227.gif",
+        "config": "light",
+        "lut": "lut/light.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/227.gif",
+        "status": true
+      },
+      {
+        "id": 230,
+        "name": "Jitter",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/230.gif",
+        "config": "jitter",
+        "lut": "lut/jitter.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/230.gif",
+        "status": true
+      },
+      {
+        "id": 231,
+        "name": "Preview",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/231.gif",
+        "config": "preview",
+        "lut": "lut/preview.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/231.gif",
+        "status": true
+      },
+      {
+        "id": 232,
+        "name": "Soul",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/232.gif",
+        "config": "soul",
+        "lut": "lut/soul.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/232.gif",
+        "status": true
+      },
+      {
+        "id": 233,
+        "name": "Split Interval",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/233.gif",
+        "config": "split_interval",
+        "lut": "lut/split_interval.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/233.gif",
+        "status": true
+      },
+      {
+        "id": 234,
+        "name": "Stab CI",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/234.gif",
+        "config": "stab_ci",
+        "lut": "lut/stab_ci.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/234.gif",
+        "status": true
+      },
+      {
+        "id": 235,
+        "name": "White Mask",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/235.gif",
+        "config": "white_mask",
+        "lut": "lut/white_mask.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/235.gif",
+        "status": true
+      },
+      {
+        "id": 239,
+        "name": "Seventies1",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/239.gif",
+        "config": "seventies1",
+        "lut": "lut/seventies1.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/239.gif",
+        "status": true
+      },
+      {
+        "id": 240,
+        "name": "Illusion",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/240.gif",
+        "config": "illusion",
+        "lut": "lut/illusion.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/200/240.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Colorful",
+    "thumbnail": "effect/colorful.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 301,
+        "name": "Rainbow",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "config": "rainbow",
+        "lut": "lut/rainbow.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/301.gif",
+        "status": true
+      },
+      {
+        "id": 302,
+        "name": "Spotlight",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/302.gif",
+        "config": "spotlight",
+        "lut": "lut/spotlight.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2Ficons%2Fframe_3.jpg?alt=media",
+        "thumbnail1": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2Ficons%2Fframe_3.jpg?alt=media",
+        "file": "https://firebasestorage.googleapis.com/v0/b/mchatapp-72720.appspot.com/o/spl%2Fe1%2F302.zip?alt=media",
+        "status": false,
+        "type": 2
+      },
+      {
+        "id": 303,
+        "name": "Psychedelic",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/303.gif",
+        "config": "psychedelic",
+        "lut": "lut/psychedelic.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/303.gif",
+        "status": true
+      },
+      {
+        "id": 304,
+        "name": "Hue sat",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/304.gif",
+        "thumbnail_2": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59kntsef9v8ry6m8m51ysvv%2F1758038060_img_0.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=qWpkf2KVI%2Bu5uPoiufxWlZJcCRKguNtCQtMZhTscHZc%3D&az=oaivgprodscus",
+        "thumbnail_1": "https://videos.openai.com/vg-assets/assets%2Ftask_01k59kntsef9v8ry6m8m51ysvv%2F1758038060_img_1.webp?st=2025-09-24T03%3A17%3A05Z&se=2025-09-30T04%3A17%3A05Z&sks=b&skt=2025-09-24T03%3A17%3A05Z&ske=2025-09-30T04%3A17%3A05Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=fXLSZM3%2FOLnM5abnjwX7S9DqgFzQRKnVSMEEJ3rTucE%3D&az=oaivgprodscus",
+        "config": "hue_sat",
+        "lut": "lut/hue_sat.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/304.gif",
+        "downloadUrl1": "https://i.pinimg.com/736x/e2/d2/d0/e2d2d0688dd95c7605f804a0c05579f3.jpg",
+        "downloadUrl2": "https://www.cnet.com/a/img/resize/56ef5786bda8a923cb7a1597f2bf43e0d1f09017/2019/06/12/c0a5681b-1684-4d83-bf80-9129c412065b/color-changing-smart-led-bulb-promo-philips-hue-lifx-c-by-ge-alexa-google-assistant-home-echo.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "status": true
+      },
+      {
+        "id": 305,
+        "name": "X-ray",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/305.gif",
+        "config": "x_ray",
+        "lut": "lut/x_ray.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/305.gif",
+        "status": true
+      },
+      {
+        "id": 306,
+        "name": "RGB",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/306.gif",
+        "config": "rgb",
+        "lut": "lut/rgb.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/306.gif",
+        "status": false
+      },
+      {
+        "id": 307,
+        "name": "Color wheel",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/307.gif",
+        "config": "color_wheel",
+        "lut": "lut/color_wheel.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/307.gif",
+        "status": true
+      },
+      {
+        "id": 308,
+        "name": "SW glitch",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/308.gif",
+        "config": "sw_glitch",
+        "lut": "lut/sw_glitch.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/308.gif",
+        "status": true
+      },
+      {
+        "id": 309,
+        "name": "Lightening",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/309.gif",
+        "config": "lightening",
+        "lut": "lut/lightening.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/309.gif",
+        "status": true
+      },
+      {
+        "id": 310,
+        "name": "Nostalgia",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/310.gif",
+        "config": "nostalgia",
+        "lut": "lut/nostalgia.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/310.gif",
+        "status": true
+      },
+      {
+        "id": 311,
+        "name": "Chroma",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/311.gif",
+        "config": "chroma",
+        "lut": "lut/chroma.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/300/311.gif",
+        "status": true
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Split screen",
+    "thumbnail": "effect/split_screen.png",
+    "updateTime": 1592479912,
+    "effect": [
+      {
+        "id": 401,
+        "name": "Fuzzy",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "config": "fuzzy",
+        "lut": "lut/fuzzy.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/401.gif",
+        "status": false
+      },
+      {
+        "id": 402,
+        "name": "Blur split",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/402.gif",
+        "config": "blur_split",
+        "lut": "lut/blur_split.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/402.gif",
+        "status": false
+      },
+      {
+        "id": 403,
+        "name": "Two",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/403.gif",
+        "config": "two",
+        "lut": "lut/two.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/403.gif",
+        "status": true
+      },
+      {
+        "id": 404,
+        "name": "Three",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/404.gif",
+        "config": "three",
+        "lut": "lut/three.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/404.gif",
+        "status": true
+      },
+      {
+        "id": 405,
+        "name": "Four",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/405.gif",
+        "config": "four",
+        "lut": "lut/four.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/405.gif",
+        "status": true
+      },
+      {
+        "id": 406,
+        "name": "Six",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/406.gif",
+        "config": "six",
+        "lut": "lut/six.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/406.gif",
+        "status": true
+      },
+      {
+        "id": 407,
+        "name": "Nine",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/407.gif",
+        "config": "nine",
+        "lut": "lut/nine.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/407.gif",
+        "status": true
+      },
+      {
+        "id": 408,
+        "name": "Right",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/408.gif",
+        "config": "right",
+        "lut": "lut/right.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/408.gif",
+        "status": true
+      },
+      {
+        "id": 409,
+        "name": "Left",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/409.gif",
+        "config": "left",
+        "lut": "lut/left.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/409.gif",
+        "status": true
+      },
+      {
+        "id": 410,
+        "name": "Up",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/410.gif",
+        "config": "up",
+        "lut": "lut/up.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/410.gif",
+        "status": true
+      },
+      {
+        "id": 411,
+        "name": "Down",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/411.gif",
+        "config": "down",
+        "lut": "lut/down.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/411.gif",
+        "status": true
+      },
+      {
+        "id": 412,
+        "name": "Mirror1",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/412.gif",
+        "config": "mirror1",
+        "lut": "lut/mirror1.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/412.gif",
+        "status": true
+      },
+      {
+        "id": 413,
+        "name": "Mirror2",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/413.gif",
+        "config": "mirror2",
+        "lut": "lut/mirror2.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/413.gif",
+        "status": true
+      },
+      {
+        "id": 414,
+        "name": "Black/White",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/414.gif",
+        "config": "black_split_white",
+        "lut": "lut/black_split_white.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/414.gif",
+        "status": true
+      },
+      {
+        "id": 415,
+        "name": "Black/White1",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/415.gif",
+        "config": "black_split_white1",
+        "lut": "lut/black_split_white1.png",
+        "updateTime": 1592479912,
+        "downloadUrl": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/400/415.gif",
+        "status": false
+      }
+    ]
+  }
+]
