@@ -29,7 +29,7 @@
       {
         "id": 901,
         "name": "Rainbow",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/cmd1.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/output.gif",
         "config": "rainbow",
         "lut": "lut/rainbow.png",
         "updateTime": 1592479912,
@@ -40,7 +40,7 @@
       {
         "id": 902,
         "name": "Spotlight",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/cmd.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/output.gif",
         "config": "spotlight",
         "lut": "lut/spotlight.png",
         "updateTime": 1592479912,
@@ -54,7 +54,7 @@
       {
         "id": 903,
         "name": "Psychedelic",
-        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/cmd.png",
+        "thumbnail": "https://raw.githubusercontent.com/vinayhvaghamshi/website/refs/heads/main/900/output.gif",
         "config": "psychedelic",
         "lut": "lut/psychedelic.png",
         "updateTime": 1592479912,

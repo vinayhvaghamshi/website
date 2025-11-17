@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # input files
-src1="111.png"
-src2="222.png"
+src1="aaa.png"
+src2="bbb.png"
 
 # total frames
 total=150
